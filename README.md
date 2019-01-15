@@ -1,6 +1,6 @@
 # Data Science Society Fall 2018 Python Workshop
 
-Workshop materials for Data Science Society's Fall 2018 Python workshop - taught/created by Shalini Kunapuli and Janani Vijaykumar.
+Workshop materials for UC Berkeley's Data Science Society's Fall 2018 Python workshop - taught/created by Shalini Kunapuli and Janani Vijaykumar.
 
 ## Teaching slides
 https://tinyurl.com/y86fx2nb
